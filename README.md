@@ -156,15 +156,7 @@ The website follows accessibility best practices by:
 * Associating every form field with a label
 * Ensuring keyboard focus visibility
 * Using readable color contrast
-## Future Improvements
 
-* Add JavaScript for form validation
-* Dark mode support
-* Download Resume button
-* Project filtering
-* Smooth scrolling animations
-* Backend integration for the contact form
-* GitHub API integration to display repositories
 
 ## Author
 
